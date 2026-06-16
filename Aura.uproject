@@ -1,0 +1,15 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4D0B878C-4294-D907-6478-9184ABDA07DD}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
